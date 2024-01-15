@@ -10,7 +10,7 @@ I'm a PHP developer, I love coding and learning new stuff everyday!
 🔭 I’m currently working at SimplyPHP using:
 -  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 -  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
--  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white),
+-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 -  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 My Favorite Browser:
@@ -35,9 +35,9 @@ When I'm not Coding, I'm:
 - Playing ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) with my son.
 - Sometimes checking ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) and ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) (mostly for memes 😅)
 - Wacthing movies or series in ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) or ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)
-- Cooking 
+- Cooking 👩🏻‍🍳
 - riding my bike 🚴🏻‍♀️
-- knowing new places
+- knowing new places 🌆
 - travelling ✈️
 
 
@@ -46,6 +46,7 @@ OS:
 - ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 📫 How to reach me: https://www.linkedin.com/in/julia-rosales/
+
 ⚡ Fun fact: I like Chocolate 🍫 and Cats! 😻
 
 
