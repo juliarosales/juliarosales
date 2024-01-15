@@ -34,11 +34,11 @@ Some tools and others that I use while I'm working:
 When I'm not Coding, I'm:
 - Playing ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) with my son.
 - Sometimes checking ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) and ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) (mostly for memes 😅)
-- Wacthing movies or series in ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) or ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)
+- Watching movies or series in ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) or ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)
 - Cooking 👩🏻‍🍳
-- riding my bike 🚴🏻‍♀️
-- knowing new places 🌆
-- travelling ✈️
+- Riding my bike 🚴🏻‍♀️
+- Knowing new places 🌆
+- Travelling ✈️
 
 
 OS:
